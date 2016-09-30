@@ -20,4 +20,4 @@
 /spring/*.pid
 
 # Ignore stupid RubyMine
-/.idea/*
+.idea/*
